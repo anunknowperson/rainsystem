@@ -86,11 +86,11 @@
   <ItemDefinitionGroup>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\gdexample.cpp" />
+    <ClCompile Include="src\rainsystem.cpp" />
     <ClCompile Include="src\register_types.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\gdexample.h" />
+    <ClInclude Include="src\rainsystem.h" />
     <ClInclude Include="src\register_types.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
