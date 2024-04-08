@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://jfifugm8le35"]
+
+[node name="GDExample" type="GDExample"]
+position = Vector2(10.2118, 2.81752)
